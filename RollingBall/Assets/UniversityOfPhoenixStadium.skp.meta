@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 4ac00eca2dbf66341b1d4103cbd329a2
+timeCreated: 1491242348
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f00000070000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fc8d1cede564b5db5c97090d163ad981
+  longitude: -112.26242271865215
+  latitude: 33.5272615046191
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -358.39236, y: 177.1854, z: 177.21423}
+      lookAt: {x: -255.8723, y: 119.27283, z: 141.33656}
+      up: {x: 0.44407713, y: 0.882408, z: -0.15540822}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: field goal
+    100002: field goal 1
+    100004: goal
+    100006: goal 1
+    100008: Google Earth Terrain
+    100010: Group 17
+    100012: Group 19
+    100014: Group 21
+    100016: Group 23
+    100018: Group 25
+    100020: Group 27
+    100022: Group 29
+    100024: Group 31
+    100026: Group 33
+    100028: Group 35
+    100030: Group 37
+    100032: Group 39
+    100034: Group 41
+    100036: Group 45
+    100038: Group 47
+    100040: Group 49
+    100042: Group 5
+    100044: Group 51
+    100046: Group 53
+    100048: Group 55
+    100050: Group 57
+    100052: Group 59
+    100054: Group 6
+    100056: Group 61
+    100058: Group 63
+    100060: Group 65
+    100062: Group 67
+    100064: Group 69
+    100066: Group 71
+    100068: Group 73
+    100070: Group 75
+    100072: Group 76
+    100074: Group 77
+    100076: Group 79
+    100078: Group 8
+    100080: Group 81
+    100082: Group 82
+    100084: Group 84
+    100086: Group 86
+    100088: Group 88
+    100090: Group 9
+    100092: Group 90
+    100094: Group 92
+    100096: Group 93
+    100098: Group 95
+    100100: Group 97
+    100102: pad
+    100104: pad 1
+    100106: post base
+    100108: post base 1
+    100110: //RootNode
+    100112: UPStadium_Brace1
+    100114: UPStadium_Brace1 1
+    100116: UPStadium_Roof_Retractable
+    100118: UPStadium_Roof_Retractable 1
+    400000: field goal
+    400002: field goal 1
+    400004: goal
+    400006: goal 1
+    400008: Google Earth Terrain
+    400010: Group 17
+    400012: Group 19
+    400014: Group 21
+    400016: Group 23
+    400018: Group 25
+    400020: Group 27
+    400022: Group 29
+    400024: Group 31
+    400026: Group 33
+    400028: Group 35
+    400030: Group 37
+    400032: Group 39
+    400034: Group 41
+    400036: Group 45
+    400038: Group 47
+    400040: Group 49
+    400042: Group 5
+    400044: Group 51
+    400046: Group 53
+    400048: Group 55
+    400050: Group 57
+    400052: Group 59
+    400054: Group 6
+    400056: Group 61
+    400058: Group 63
+    400060: Group 65
+    400062: Group 67
+    400064: Group 69
+    400066: Group 71
+    400068: Group 73
+    400070: Group 75
+    400072: Group 76
+    400074: Group 77
+    400076: Group 79
+    400078: Group 8
+    400080: Group 81
+    400082: Group 82
+    400084: Group 84
+    400086: Group 86
+    400088: Group 88
+    400090: Group 9
+    400092: Group 90
+    400094: Group 92
+    400096: Group 93
+    400098: Group 95
+    400100: Group 97
+    400102: pad
+    400104: pad 1
+    400106: post base
+    400108: post base 1
+    400110: //RootNode
+    400112: UPStadium_Brace1
+    400114: UPStadium_Brace1 1
+    400116: UPStadium_Roof_Retractable
+    400118: UPStadium_Roof_Retractable 1
+    2300000: goal
+    2300002: goal 1
+    2300004: Google Earth Terrain
+    2300006: Group 17
+    2300008: Group 19
+    2300010: Group 21
+    2300012: Group 23
+    2300014: Group 25
+    2300016: Group 27
+    2300018: Group 29
+    2300020: Group 31
+    2300022: Group 33
+    2300024: Group 35
+    2300026: Group 37
+    2300028: Group 39
+    2300030: Group 41
+    2300032: Group 45
+    2300034: Group 47
+    2300036: Group 49
+    2300038: Group 51
+    2300040: Group 53
+    2300042: Group 55
+    2300044: Group 57
+    2300046: Group 59
+    2300048: Group 6
+    2300050: Group 61
+    2300052: Group 63
+    2300054: Group 65
+    2300056: Group 67
+    2300058: Group 69
+    2300060: Group 71
+    2300062: Group 73
+    2300064: Group 77
+    2300066: Group 79
+    2300068: Group 82
+    2300070: Group 84
+    2300072: Group 86
+    2300074: Group 88
+    2300076: Group 9
+    2300078: Group 90
+    2300080: Group 93
+    2300082: Group 95
+    2300084: Group 97
+    2300086: pad
+    2300088: pad 1
+    2300090: post base
+    2300092: post base 1
+    2300094: UPStadium_Brace1
+    2300096: UPStadium_Brace1 1
+    2300098: UPStadium_Roof_Retractable
+    2300100: UPStadium_Roof_Retractable 1
+    3300000: goal
+    3300002: goal 1
+    3300004: Google Earth Terrain
+    3300006: Group 17
+    3300008: Group 19
+    3300010: Group 21
+    3300012: Group 23
+    3300014: Group 25
+    3300016: Group 27
+    3300018: Group 29
+    3300020: Group 31
+    3300022: Group 33
+    3300024: Group 35
+    3300026: Group 37
+    3300028: Group 39
+    3300030: Group 41
+    3300032: Group 45
+    3300034: Group 47
+    3300036: Group 49
+    3300038: Group 51
+    3300040: Group 53
+    3300042: Group 55
+    3300044: Group 57
+    3300046: Group 59
+    3300048: Group 6
+    3300050: Group 61
+    3300052: Group 63
+    3300054: Group 65
+    3300056: Group 67
+    3300058: Group 69
+    3300060: Group 71
+    3300062: Group 73
+    3300064: Group 77
+    3300066: Group 79
+    3300068: Group 82
+    3300070: Group 84
+    3300072: Group 86
+    3300074: Group 88
+    3300076: Group 9
+    3300078: Group 90
+    3300080: Group 93
+    3300082: Group 95
+    3300084: Group 97
+    3300086: pad
+    3300088: pad 1
+    3300090: post base
+    3300092: post base 1
+    3300094: UPStadium_Brace1
+    3300096: UPStadium_Brace1 1
+    3300098: UPStadium_Roof_Retractable
+    3300100: UPStadium_Roof_Retractable 1
+    4300000: Mesh Google Earth Terrain
+    4300002: Mesh Group 6
+    4300004: Mesh Group 9
+    4300006: Mesh UPStadium_Roof_Retractable
+    4300008: Mesh UPStadium_Brace1
+    4300010: Mesh Group 17
+    4300012: Mesh Group 19
+    4300014: Mesh Group 23
+    4300016: Mesh Group 25
+    4300018: Mesh Group 27
+    4300020: Mesh Group 29
+    4300022: Mesh Group 31
+    4300024: Mesh Group 37
+    4300026: Mesh Group 41
+    4300028: Mesh Group 71
+    4300030: Mesh Group 73
+    4300032: Mesh Group 77
+    4300034: Mesh Group 79
+    4300036: Mesh Group 82
+    4300038: Mesh Group 84
+    4300040: Mesh Group 86
+    4300042: Mesh Group 88
+    4300044: Mesh Group 90
+    4300046: Mesh Group 93
+    4300048: Mesh Group 95
+    4300050: Mesh Group 97
+    4300052: Mesh pad
+    4300054: Mesh goal
+    4300056: Mesh post base
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
