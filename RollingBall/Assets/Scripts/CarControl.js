@@ -16,6 +16,9 @@ function FixedUpdate () {
 	wheelFR.motorTorque = maxTorque * Input.GetAxis("Vertical");
 	wheelFL.motorTorque = maxTorque * Input.GetAxis("Vertical");
 
+	wheelRL.motorTorque = maxTorque * Input.GetAxis("Vertical");
+	wheelRR.motorTorque = maxTorque * Input.GetAxis("Vertical");
+
 	wheelRL.steerAngle = max_steerAngle * -Input.GetAxis("Horizontal");
 	wheelRR.steerAngle = max_steerAngle * -Input.GetAxis("Horizontal");
 	
