@@ -6,7 +6,7 @@ Github Repo for Autonomous Forklift Project
 
 1. Install Git on your local machine https://git-scm.com/downloads
 2. Navigate to the directory that you want the project to be stored in via the command line
-3. Clone the repository to your chose directory using the command "https://github.com/ThanhL/AutonForklift.git" 
+3. Clone the repository to your chose directory using the command: git clone "https://github.com/ThanhL/AutonForklift.git" 
 
 #### Importing project in to Unity
 
