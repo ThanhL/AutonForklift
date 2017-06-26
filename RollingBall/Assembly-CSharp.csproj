@@ -46,10 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\MastControl.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\Tricycle_CarControl.cs" />
+     <Compile Include="Assets\Scripts\Forklift\CameraController.cs" />
+     <Compile Include="Assets\Scripts\Forklift\MastControl.cs" />
+     <Compile Include="Assets\Scripts\Forklift\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Forklift\Tricycle_CarControl.cs" />
+     <Compile Include="Assets\Scripts\Pathfinding\Grid.cs" />
+     <Compile Include="Assets\Scripts\Pathfinding\Node.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
